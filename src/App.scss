@@ -1,0 +1,15 @@
+@import "~bootstrap/scss/bootstrap";
+
+.capitalize {
+    text-transform: capitalize;
+}
+.battingOrder{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    color: #fff;
+    background: #6d6d6d;
+    width: 26px;
+    height: 18px;
+    font-size: 12px;
+}
